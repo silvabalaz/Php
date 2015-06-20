@@ -1,6 +1,6 @@
 # Php
 Weather Report
 
-Dohvacanje temperature i opisa vremena za uneseni grad i za jos nekoliko vecih gradova, sa Yahoo API-ja.
+Dohvacanje temperature i opisa vremena za uneseni grad i za jos nekoliko vecih gradova, sa Yahoo API-ja uz Ajax autoSuggest.
 
 http://silvahaberl.com/weatherReport/
