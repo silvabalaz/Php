@@ -10,7 +10,7 @@
 <?php
 
 
- mysql_connect("localhost","silvahab","s1be3Rh6P2");
+ mysql_connect("localhost","","");
  mysql_select_db("silvahab_weather123");
  
 $term=$_GET["grad"];
